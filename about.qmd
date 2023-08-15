@@ -1,0 +1,23 @@
+---
+title: "Umar Sani Muhammad"
+image: My_picture.jpg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Umarsmuhammed
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/Umarsmuhammed
+    - icon: github
+      text: Github
+      href: https://github.com/Umarsmuhammed
+    - icon: envelop
+      text: Contact me
+      href: mailto:umarsmuhammed@gmail.com
+
+---
+My Name is Umar Sani Muhammad I have a strong academic background in Mathematics, Statistics and Computer science which are essentials for data science, I have Bsc Mathematics and just of recent I finished my Msc in Computational Mathematics from Bayero University Kano. I was lucky to be part of first cohort of Arewa Data Science Academy in which we were trained on Python programming and Machine learning. I also have a keen interest in learning new techniques and tools for data science especially in the area of Natural Language processing (NLP) and Time series analysis.
